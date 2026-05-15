@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "slimecsmp.aternos.me",
-    "port": 35587,
+    "port": ,
     "version": "",
     "try-creative": false
   },
